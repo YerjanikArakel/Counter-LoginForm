@@ -1,0 +1,16 @@
+.counter {
+  padding: 5px;
+  margin: 10px;
+}
+
+.counter-input {
+  margin: 5px;
+}
+
+.counter-labels {
+  color: chocolate;
+}
+
+* {
+  text-decoration: none;
+}
